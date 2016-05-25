@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BudgetDeft</string>
+    <string name="title">Budget Deft</string>
+    <string name="name_text">Name:</string>
+    <string name="pwd_text">Password:</string>
+    <string name="email_text">Email:</string>
+    <string name="signIn_title">Sign In</string>
+    <string name="signUp_title">Sign Up</string>
+</resources>
